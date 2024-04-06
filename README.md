@@ -7,10 +7,10 @@ In this repository, the concepts of VueJS 3 covered in the Spanish course taught
   </p>
  
 
-  <h2>Links:</h2>
-       <ul>
-   <li>Course: <a href='https://www.youtube.com/playlist?list=PLDllzmccetSNgykILXnHMeuO-y-gRcF-i' </li>
-     <li>Youtube Channel: <a href='https://www.youtube.com/@GOGODEV' </li>
-  </ul>
+<h2>Links:</h2>
+<ul>
+  <li>Course: <a href='https://www.youtube.com/playlist?list=PLDllzmccetSNgykILXnHMeuO-y-gRcF-i'>Curso</a></li>
+  <li>Youtube Channel: <a href='https://www.youtube.com/@GOGODEV'>Canal de YouTube</a></li>
+</ul>
 
 </div>
