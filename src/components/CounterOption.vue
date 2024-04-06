@@ -30,7 +30,7 @@ export default defineComponent({
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 
 </style>
