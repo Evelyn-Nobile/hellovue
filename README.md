@@ -3,7 +3,8 @@
   <h1>Learning VueJS 3 👩‍💻🤓 </h1>
   
   <p>    
-In this repository, the concepts of VueJS 3 covered in the Spanish course taught by the YouTube channel <strong>'GOGODEV'</strong> are put into practice.
+Repository created to learn the concepts of VueJS 3 covered in the 50hs Spanish course taught by the YouTube channel <strong>'GOGODEV'</strong>.
+    Some of these concepts are: composition API, functional components, option API, Typescript, Vite, Cli, router, Vuex, Pinia, Pre-processors, Unit Testing and E2E, etc.
   </p>
  
 
