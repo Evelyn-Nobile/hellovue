@@ -3,7 +3,7 @@
   <h1>Learning VueJS 3 👩‍💻🤓 </h1>
   
   <p>    
-In this repository, the concepts of VueJS 3 covered in the Spanish course taught by the YouTube channel <strong>GOGODEV</strong> are put into practice.
+In this repository, the concepts of VueJS 3 covered in the Spanish course taught by the YouTube channel <strong>'GOGODEV'</strong> are put into practice.
   </p>
  
 
