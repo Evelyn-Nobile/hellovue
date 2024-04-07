@@ -8,6 +8,9 @@
  <ClassBind/>
  <StyleBind/>
  <ModelForm/>
+ <CycleOption/>
+ <CycleComposition/>
+
 </template>
 
 <script setup>
@@ -19,7 +22,8 @@ import ExampleFor from './components/ExampleFor.vue';
 import ClassBind from './components/ClassBind.vue';
 import StyleBind from './components/StyleBind.vue';
 import ModelForm from './components/ModelForm.vue';
-
+import CycleOption from '@/components/CycleOption'
+import CycleComposition from './components/CycleComposition.vue';
 </script>
 
 <style>
