@@ -1,5 +1,5 @@
 <template>
- <h1>Hello Vue!</h1>
+ <h1>HELLO VUE!: LEARNING ABOUT VUE 3</h1>
  <PostConainer/>
  <CounterOption/>
  <CounterComposition/>
@@ -10,6 +10,8 @@
  <ModelForm/>
  <CycleOption/>
  <CycleComposition/>
+ <PostList/>
+ <PostDetail/>
 
 </template>
 
@@ -24,6 +26,7 @@ import StyleBind from './components/StyleBind.vue';
 import ModelForm from './components/ModelForm.vue';
 import CycleOption from '@/components/CycleOption'
 import CycleComposition from './components/CycleComposition.vue';
+import PostList from './components/PostList.vue';
 </script>
 
 <style>
