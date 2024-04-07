@@ -1,5 +1,5 @@
 <template>   
-<h1 class="title">USING PROPS</h1>
+<h1 class="title">USING PROPS AND EMITS</h1>
     <div class="postContainer" >     
         <PostDetail v-for="post in info" :key="post.title" :title="post.title" :content="post.content" @sendAlert="showAlert"/>
     </div>

@@ -11,7 +11,8 @@
  <CycleOption/>
  <CycleComposition/>
  <PostList/>
- <PostDetail/>
+<ComputedOption/>
+<ComputedComposition/>
 
 </template>
 
@@ -27,6 +28,8 @@ import ModelForm from './components/ModelForm.vue';
 import CycleOption from '@/components/CycleOption'
 import CycleComposition from './components/CycleComposition.vue';
 import PostList from './components/PostList.vue';
+import ComputedComposition from './components/ComputedComposition.vue';
+import ComputedOption from '@/components/ComputedOption'
 </script>
 
 <style>

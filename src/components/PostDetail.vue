@@ -24,7 +24,7 @@ const props = defineProps({
 const emits = defineEmits(['sendAlert']);  
 
  const handleClick = () => {
-emits("sendAlert", "EMITS: This is the message received by the fn")
+emits("sendAlert", "EMIT: This is the message received by the fn")
  }   
 
 </script> 
