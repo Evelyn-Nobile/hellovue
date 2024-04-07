@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h2>
-            Computed data: Composition API
+        <h2 v-custom-size:xl>
+            Computed properties: Composition API
         </h2>
         <input type="text" v-model="message">
         <h3>{{message}}</h3>

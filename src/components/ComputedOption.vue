@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h2>
-            Computed data: Option API
+        <h2 v-custom-font.xl.blue >
+            Computed properties: Option API
         </h2>
         <input type="text" v-model="message">
         <h3>{{message}}</h3>
